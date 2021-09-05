@@ -18,5 +18,10 @@ You can also easily filter by multiple search criteria by simply adding addition
 
 <img src="https://github.com/coryknuth/ufo_sightings/blob/a7d4c2684ff47ac7dda0f97a1152cc0ab0437789/static/images/multiple_search_with_results.png"/>
 
+## Steps Forward
+
+One key drawback of this current website design i see is the clunkiness of search term entry, as there's no way to confirm your search other than selecting another field outside the box it makes the general experience of entering search terms, particularly multiple terms, feel quite clunky, and unpolished. I would redesign the search UI to have better functionality, and to feel more polished and modern. 
+
+I would also consider as an improvement, adding a reset search button which would clear all fields of your search. Currently the only way to do that is to manually delete search terms from each box which only adds to the gerneal feeling of clunkiness that the search box has.
 
 
